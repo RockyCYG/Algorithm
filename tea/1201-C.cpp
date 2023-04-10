@@ -1,3 +1,11 @@
+// Problem: C. Maximum Median
+// Contest: Codeforces - Codeforces Round 577 (Div. 2)
+// URL: https://codeforces.com/problemset/problem/1201/C
+// Memory Limit: 256 MB
+// Time Limit: 2000 ms
+// 
+// Powered by CP Editor (https://cpeditor.org)
+
 #include <bits/stdc++.h>
 
 using namespace std;
